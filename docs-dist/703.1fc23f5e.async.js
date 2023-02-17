@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmxui_library=self.webpackChunkmxui_library||[]).push([[703],{93703:function(s,u,n){n.r(u),n.d(u,{Foo:function(){return t}});var l=n(67294),o=n(85893),r=function(i){return(0,o.jsx)("h4",{children:i.title})},t=r}}]);

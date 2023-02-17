@@ -1,12 +1,12 @@
 ---
 hero:
   title: library
-  description: A react library developed with dumi
+  description: 一个人用的文档记录平台
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: 立即上手
+      link: /guide
+    - text: 查看文档
+      link: /doc
 features:
   - title: Hello
     emoji: 💎
